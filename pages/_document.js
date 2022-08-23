@@ -1,4 +1,5 @@
 // pages/_document.js
+//Adding FOntawsome Icons
 import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
